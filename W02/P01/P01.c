@@ -1,7 +1,7 @@
-int n=100;
-for(; ; )
-{ 
-puts("I will switch off lights, fans. AC when leaving room");
-puts("sorry i am not the part of for");
+    puts("Principal");
+    puts("Panth Rattan Shiri Gurcharan Singh Tohra Complex");
+    puts("Guru Nanak Dev Engineering College");
+    puts("Gill Park");
+    puts("Ludhiana - 141006");
+    puts("India");
 
-}
