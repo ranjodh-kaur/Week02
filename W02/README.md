@@ -1,1 +1,11 @@
-* Week 02 *
+# PPS->L02
+Programming for Problem Solving: L01
+
+1. Compile using
+
+        make
+
+1. Execute using
+
+        ./main
+        
